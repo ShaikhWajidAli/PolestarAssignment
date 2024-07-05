@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNGTest-c0cc9864-17f6-46d9-ae30-dadfe040294a"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.248">
+    <properties></properties>
+
+
+
+            <testcase
+                name="navigateToHomePage"
+                time="1.360"
+                classname="com.polestar.tests.HomePageTest">
+            </testcase>
+            <testcase
+                name="imagesAndVediosDisplayedTest"
+                time="0.535"
+                classname="com.polestar.tests.HomePageTest">
+            </testcase>
+            <testcase
+                name="getHomePageTitleTest"
+                time="0.353"
+                classname="com.polestar.tests.HomePageTest">
+            </testcase>
+</testsuite>

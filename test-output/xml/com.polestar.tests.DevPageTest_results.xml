@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNGTest-8be7fa4e-5245-4e30-89e2-fc8229dc4056"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.241">
+    <properties></properties>
+
+
+
+            <testcase
+                name="devPageURLTest"
+                time="0.000"
+                classname="com.polestar.tests.DevPageTest">
+            </testcase>
+            <testcase
+                name="navigateToHomePage"
+                time="0.507"
+                classname="com.polestar.tests.DevPageTest">
+            </testcase>
+            <testcase
+                name="devPageTitleTest"
+                time="0.024"
+                classname="com.polestar.tests.DevPageTest">
+            </testcase>
+            <testcase
+                name="imageDisplayedTest"
+                time="0.050"
+                classname="com.polestar.tests.DevPageTest">
+            </testcase>
+            <testcase
+                name="clickRejectAllBtn"
+                time="0.660"
+                classname="com.polestar.tests.DevPageTest">
+            </testcase>
+</testsuite>

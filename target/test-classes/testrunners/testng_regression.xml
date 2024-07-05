@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Polestar Test Regression PW Suite" verbose="4">
+
+	<test name="PoleStar DevPage_chrome">
+		<classes>
+			<class name="com.polestar.tests.DevPageTest" />
+		</classes>
+	</test>
+
+	<test name="PoleStar HomePage_chrome">
+		<classes>
+			<class name="com.polestar.tests.HomePageTest" />
+		</classes>
+	</test>
+	
+</suite>
